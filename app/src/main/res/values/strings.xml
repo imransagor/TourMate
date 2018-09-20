@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TourMate</string>
+    <string name="sign_up">Sign Up</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_an_event_name">Enter an event name</string>
+    <string name="your_starting_location">Your starting location</string>
+    <string name="your_destination">Your destination</string>
+    <string name="depurture_date">Depurture date</string>
+    <string name="your_estimated_budget">Your estimated budget</string>
+    <string name="title_AllEvents">All Events</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
